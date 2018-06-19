@@ -20,8 +20,13 @@ Todo o conteúdo de apoio criado ao decorrer das aulas é aberto e pode ser acom
 
 Nesse repositório, você deve encontrar o conteúdo referente ao [gitbook](https://vainaweb.gitbooks.io/primeiros-passos-web) sobre Python. :sparkles:
 
-* [01 - Começando com Python](capitulos/01)
-* [02 - Variáveis, Expressões, Instruções](capitulos/02)
-* [12 - Criando um banco de dados](capitulos/12)
+* [01 - Escreva seu primeiro programa em Python](capitulos/01)
+* [02 - Aprenda sobre lógica booleana](capitulos/02)
+* [03 - Estruturas de Decisão](capitulos/03)
+* [04 - Crie uma calculadora](capitulos/04)
+* [05 - Listas](capitulos/05)
+* [06 - Dicionários](capitulos/06)
+* [07 - Estrutura de Repetição](capitulos/07)
+* [08 - Lendo arquivos](capitulos/08)
 
 Se você deseja contribuir com o nosso material de apoio, sugerimos que você leia o nosso [guia de contribuição](CONTRIBUTING.md) e também o nosso [código de conduta](CODE_OF_CONDUCT.md).
