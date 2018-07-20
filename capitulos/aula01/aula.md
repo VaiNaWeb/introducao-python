@@ -35,8 +35,7 @@ Se a implementação é difícil de explicar, é uma má idéia.
 Se a implementação é fácil de explicar, pode ser uma boa idéia.
 Namespaces são uma grande ideia — vamos ter mais dessas!
 ```
+# Seu primeiro programa
 
 Vamos começar a desenvolver nossos primeiros programas em Python. Lembrando que por definição, um programa é uma sequência de instruções que especifica como executar uma operação de computação.
-
-Essa aula terá como base o primeiro capítulo do livro [Pense em Python](https://penseallen.github.io/PensePython2e/01-jornada.html).
 
