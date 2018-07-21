@@ -50,7 +50,6 @@ Também tem o operador para trabalhar com exponenciação, exemplo:
 ```python
 2 ** 4
 ```
-Python pode ser muito divertido! Você pode testar mais operações com números diferentes no interpretador antes de continuar esse captítulo, gostaríamos que você praticasse mais um pouco.
 
 # A Maldição do olá mundo e as letras
 
@@ -110,3 +109,5 @@ Você pode usar a função print para exibir essas variáveis na tela!
 ```python
 print(nome, idade)
 ```
+
+Python pode ser muito divertido! Você pode continuar testando os comandos que você aprendeu hoje no nterpretador. Gostaríamos que você continuasse praticando mais um pouco para que você também possa perceber como programar pode ser uma coisa muito legal e divertida.
