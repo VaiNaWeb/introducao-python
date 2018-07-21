@@ -63,7 +63,7 @@ Você acabou de usar um comando um pouco mais avançado da linguagem e nem perce
 
 A função nativa que você usou é a <code>print()</code> que serve basicamente para mostrar coisas na tela. Uma coisa legal sobre funções é que elas recebem coisas dentro dela, no exemplo que usamos a função recebeu a frase Olá mundo entre aspas. Tente substituir o conteúdo das aspas por outra palavra que você deseje, como por exemplo seu nome e veja o que acontece!
 
-As aspas indicam que esse dado que você está usando é uma palavra. O Python também permite fazer operações usando palavras, faça o teste:
+As aspas indicam que esse dado que você está usando é uma palavra, chamamos esse tipo de dado de String. O Python também permite fazer operações usando palavras, faça o teste:
 ```python
 print(' ilari' * 3 + ' ê, oh oh oh')
 ```
@@ -81,3 +81,32 @@ SyntaxError: invalid syntax
 Seu primeiro erro! SyntaxError: invalid syntax indica que você cometeu um erro de sintaxe, já aprendemos sobre isso, é quando escrevemos a estrutura da instrução de uma forma diferente da que a linguagem foi projetada para usar. Geralmente acontece quando esquecemos algum símbolo, como aspas, ou uma vírgula, por exemplo.
 
 Sabendo disso, você já sabe como descobrir o que está fazendo de errado. Ler os erros que o próprio interpretador apresenta no terminal pode ser muito útil, pois você pode copia-lo e pesquisar sobre ele. Aqui mora a magia em programar, procurar sobre erros e corrigi-los pode ser um desafio muito legal.
+
+# Guardando coisas em Variáveis
+
+Uma variável é um espaço com um nome reservado para guardar alguma coisa. Usamos variáveis para guardar dados, elas também são úteis para fazer códigos mais fáceis de ler.
+
+```python
+nome = "Dali"
+```
+Pronto, você já criou uma varíável e atribuiu a ela um valor como String. Ou seja, guardamos uma palavra dentro dessa variável! Agora digite nome e tecle enter, você vai poder ver esse valor que ela guardou:
+
+```python
+nome
+```
+Você também pode guardar um novo valor dentro da mesma variável. Exemplo:
+
+```python
+nome = "Anna"
+```
+Uma variável pode guardar vários tipos de dados diferentes, como números, listas, datas! Exemplo usando números:
+
+```python
+nome = "Hebert"
+idade = 20
+```
+
+Você pode usar a função print para exibir essas variáveis na tela!
+```python
+print(nome, idade)
+```
