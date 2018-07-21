@@ -55,5 +55,5 @@ Também tem o operador para trabalhar com exponenciação, exemplo:
 ```python
 2 ** 4
 ```
-Python pode ser muito divertido! Você pode testar mais operações com números diferentes no interpretador antes de continuar essa aula, gostaríamos que você praticasse mais um pouco.
+Python pode ser muito divertido! Você pode testar mais operações com números diferentes no interpretador antes de continuar esse captítulo, gostaríamos que você praticasse mais um pouco.
 
