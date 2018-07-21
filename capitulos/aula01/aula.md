@@ -110,4 +110,4 @@ Você pode usar a função print para exibir essas variáveis na tela!
 print(nome, idade)
 ```
 
-Python pode ser muito divertido! Você pode continuar testando os comandos que você aprendeu hoje no nterpretador. Gostaríamos que você continuasse praticando mais um pouco para que você também possa perceber como programar pode ser uma coisa muito legal e divertida.
+Python pode ser muito divertido! Você pode continuar testando as instruções que você aprendeu hoje no interpretador. Gostaríamos que você continuasse praticando mais um pouco para que você também possa perceber como programar pode ser uma coisa muito legal e divertida.
