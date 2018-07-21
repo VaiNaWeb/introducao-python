@@ -35,7 +35,29 @@ Se a implementação é difícil de explicar, é uma má idéia.
 Se a implementação é fácil de explicar, pode ser uma boa idéia.
 Namespaces são uma grande ideia — vamos ter mais dessas!
 ```
-# Seu primeiro programa
+# Seu primeiro programa em Python
 
 Vamos começar a desenvolver nossos primeiros programas em Python. Lembrando que por definição, um programa é uma sequência de instruções que especifica como executar uma operação de computação.
+
+Como aprendemos em outro módulo, o código em HTML precisa de um navegador para interpreta-lo. O Python tem seu próprio interpretador, um programa que lê e executa o código Python.
+
+Para começar, nós queremos abrir o Python em um terminal, para fazer isso é só digitar o comando python, ou python3. Quando o interpretador iniciar, você deverá ver algo como:
+
+```cmd
+python3
+```
+
+```cmd
+Python 3.6.3 (...)
+Type "help", "copyright", "credits" or "license" for more information.
+>>>
+```
+
+Esses símbolos >>> significam que o Python já está sendo executado, se precisar sair dele digite exit() e aperte enter. Mas não é isso que queremos fazer.
+
+Reza a lenda que ao aprender uma nova linguagem de programação precisamos exibir um Olá mundo ou sofreremos para sempre com a maldição de nunca aprender a linguagem.
+
+```python
+print('Olá mundo')
+```
 
