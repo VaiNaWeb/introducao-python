@@ -41,11 +41,13 @@ Vamos começar a desenvolver nossos primeiros programas em Python. Lembrando que
 
 Como aprendemos em outro módulo, o código em HTML precisa de um navegador para interpreta-lo. O Python tem seu próprio interpretador, um programa que lê e executa o código Python.
 
-Para começar, nós queremos abrir o Python em um terminal, para fazer isso é só digitar o comando python, ou python3. Quando o interpretador iniciar, você deverá ver algo como:
+Para começar, nós queremos abrir o Python em um terminal, para fazer isso é só digitar o comando python, ou python3 e apertar enter.
 
 ```cmd
 python3
 ```
+
+Quando o interpretador iniciar, você deverá ver algo como:
 
 ```cmd
 Python 3.6.3 (...)
@@ -53,11 +55,14 @@ Type "help", "copyright", "credits" or "license" for more information.
 >>>
 ```
 
-Esses símbolos >>> significam que o Python já está sendo executado, se precisar sair dele digite exit() e aperte enter. Mas não é isso que queremos fazer.
+Esses símbolos >>> significam que o interpretador do Python está pronto para você digitar o código. Se precisar sair dele digite exit() e aperte enter. Mas não é isso que queremos fazer.
 
 Reza a lenda que ao aprender uma nova linguagem de programação precisamos exibir um Olá mundo ou sofreremos para sempre com a maldição de nunca aprender a linguagem.
 
 ```python
 print('Olá mundo')
 ```
-
+O Python consegue fazer muitas coisas, como por exemplo operações matemáticas. Digite uma operação simples e veja o que acontece:
+```python
+1 + 1
+```
