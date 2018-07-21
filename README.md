@@ -1,7 +1,3 @@
-<p align="center">
-  <img src="http://www.vainaweb.com.br/assets/logo.svg" width="20%" alt="VaiNaWeb">
-</p>
-
 # VaiNaWeb
 
 O **Vai Na Web** é um programa de educação em tecnologias digitais avançadas que busca democratizar o ensino e aprendizado de tecnologia e ajudar na emancipação dos nossos jovens nos desafios da nova era digital.
@@ -20,7 +16,7 @@ Todo o conteúdo de apoio criado ao decorrer das aulas é aberto e pode ser acom
 
 Nesse repositório, você deve encontrar o conteúdo referente ao [gitbook](https://vainaweb.gitbooks.io/primeiros-passos-web) sobre Python. :sparkles:
 
-* [01 - Escreva seu primeiro programa em Python](capitulos/01)
+* [01 - Escreva seu primeiro programa em Python](capitulos/01/aula.md)
 * [02 - Aprenda sobre lógica booleana](capitulos/02)
 * [03 - Estruturas de Decisão](capitulos/03)
 * [04 - Crie uma calculadora](capitulos/04)
