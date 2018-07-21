@@ -28,11 +28,6 @@ Type "help", "copyright", "credits" or "license" for more information.
 
 Esses símbolos >>> significam que o interpretador do Python está pronto para você digitar o código. Se precisar sair dele digite exit() e aperte enter. Mas não é isso que queremos fazer.
 
-Reza a lenda que ao aprender uma nova linguagem de programação precisamos exibir um Olá mundo ou sofreremos para sempre com a maldição de nunca aprender a linguagem.
-
-```python
-print('Olá mundo')
-```
 O Python consegue fazer muitas coisas, como por exemplo operações matemáticas. Digite uma operação simples e veja o que acontece:
 ```python
 1 + 1
@@ -56,4 +51,16 @@ Também tem o operador para trabalhar com exponenciação, exemplo:
 2 ** 4
 ```
 Python pode ser muito divertido! Você pode testar mais operações com números diferentes no interpretador antes de continuar esse captítulo, gostaríamos que você praticasse mais um pouco.
+
+# A Maldição do olá mundo e as letras
+
+Reza a lenda que ao aprender uma nova linguagem de programação precisamos exibir um Olá mundo ou sofreremos para sempre com a maldição de nunca aprender a linguagem.
+
+```python
+print('Olá mundo')
+```
+Você acabou de usar um comando um pouco mais avançado da linguagem e nem percebeu. O Python assim como outras linguagens de programação tem uma estrutura que chamamos de função, não se preocupe em entender sobre isso agora, mas saiba que  existem funções que já são nativas da linguagem, e outras que vamos aprender a criar em um futuro próximo. 
+
+A função nativa que você usou é a <code>print()</code> que serve basicamente para mostrar coisas na tela. Uma coisa legal sobre funções é que elas recebem coisas dentro dela, no exemplo que usamos a função recebeu a frase Olá mundo entre aspas. Tente substituir o conteúdo das aspas por outra palavra que você deseje, como por exemplo seu nome e veja o que acontece!
+
 
