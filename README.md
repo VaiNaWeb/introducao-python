@@ -7,13 +7,12 @@ Todo o conteúdo de apoio criado ao decorrer das aulas é aberto e pode ser acom
 ## Pre-requisitos
 * Força de vontade :sparkles:
 * Um computador com acesso à internet, ou não
-* Familiaridade com linha de comando
-* [Python3](capitulos/aula00/aula.md)
+* Familiaridade com linhas de comando
 * Editor de códigos de sua preferência
+* Python3
 
 ## Mapa de aulas
-
-* [00 - Instalação](capitulos/aula00/aula.md)
+* [00 - Instalação de ferramentas](capitulos/aula00/aula.md)
 * [01 - Seu primeiro programa em Python](capitulos/aula01/aula.md)
 * [02 - Aprenda sobre lógica booleana](capitulos/02)
 * [03 - Estruturas de Decisão](capitulos/03)
