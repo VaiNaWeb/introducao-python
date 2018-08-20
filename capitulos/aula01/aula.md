@@ -4,11 +4,11 @@ Python é uma linguagem de programação popular, e bastante poderosa! Ela é us
 
 O nome da linguagem, caso você que está lendo esteja curioso, ou curiosa, é uma homenagem a uma famosa série de comédia chamada [Monty Python](https://pt.wikipedia.org/wiki/Monty_Python%27s_Flying_Circus).
 
-A linguagem Python foi criada inicialmente com o seguinte propósito: ser uma linguagem fácil e intuitiva enquanto que ainda sendo tão poderosa quanto as maiores competidoras, que fosse de código aberto, para que qualquer um possa contribuir para o desenvolvimento, um código que fosse tão inteligível quanto inglês e que fosse adequada para tarefas diárias, permitindo um tempo de desenvolvimento mais curto.
+A linguagem Python foi criada inicialmente com o seguinte propósito: ser uma linguagem fácil e intuitiva, poderosa, e de código aberto, para que todos possam aprender a programar.
 
 # Seu primeiro programa em Python
 
-Vamos começar a desenvolver nossos primeiros programas em Python. Lembrando que por definição, um programa é uma sequência de instruções que especifica como executar uma operação de computação.
+Vamos começar a desenvolver nossos primeiros programas em Python. Por definição, um programa é uma sequência de instruções que especifica como executar uma operação de computação.
 
 Como aprendemos em outro módulo, o código em HTML precisa de um navegador para interpreta-lo. O Python tem seu próprio interpretador, um programa que lê e executa o código Python.
 
