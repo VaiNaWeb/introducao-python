@@ -12,8 +12,8 @@ Todo o conteúdo de apoio criado ao decorrer das aulas é aberto e pode ser acom
 * Python3
 
 ## Mapa de aulas
-* [00 - Instalação de ferramentas](capitulos/aula00/aula.md)
-* [01 - Seu primeiro programa em Python](capitulos/aula01/aula.md)
+* [00 - Instalação de ferramentas](capitulos/00/aula.md)
+* [01 - Seu primeiro programa em Python](capitulos/01/aula.md)
 * [02 - Aprenda sobre lógica booleana](capitulos/02)
 * [03 - Estruturas de Decisão](capitulos/03)
 * [04 - Crie uma calculadora](capitulos/04)
