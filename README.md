@@ -1,6 +1,8 @@
 # Introduço ao Python
 
-Neste módulo nossos estudantes são incentivados a desenvolverem sua habilidade de resolução de problemas usando algoritmos em **Python**. :rocket:
+Computadores nos permitem armazenar e manipular informações, realizar operações simples como buscar o preço de um produto em um lista de compras ou um conjunto de palavras em um texto, e modelagens mais complexas, como redes neurais artificiais, e tantas outras coisas legais.
+
+Vamos usar a linguagem **Python** como ferramenta para explorar fundamentos que nos ajudarão a organizar a lógica de nossos programas usando algoritmos, e informações para resolução de problemas :rocket:
 
 Todo o conteúdo de apoio criado ao decorrer das aulas é aberto e pode ser acompanhado aqui. Se você é estudante matriculado no programa, confira o [cronograma oficial das aulas](https://docs.google.com/document/d/105rl_wwvvyoIO2EDXPLd5T1HeKxWszM4iZIN91lvt5g/edit?usp=sharing). 
 
