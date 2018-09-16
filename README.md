@@ -24,4 +24,4 @@ Todo o conteúdo de apoio criado ao decorrer das aulas é aberto e pode ser acom
 * [07 - Estrutura de Repetição](capitulos/07)
 * [08 - Lendo arquivos](capitulos/08)
 
-Se você deseja contribuir com o nosso material de apoio, sugerimos que você leia o nosso [guia de contribuição](CONTRIBUTING.md) e também o nosso [código de conduta](CODE_OF_CONDUCT.md).
+Se você deseja contribuir com o nosso material de apoio, sugerimos que você leia o nosso [guia de contribuição](CONTRIBUTING.md). Todos devem seguir o nosso [código de conduta](CODE_OF_CONDUCT.md).
