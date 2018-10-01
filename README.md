@@ -1,4 +1,4 @@
-# Introduço ao Python
+# Introdução ao Python
 
 Computadores nos permitem armazenar e manipular informações, realizar operações simples como buscar o preço de um produto em um lista de compras ou um conjunto de palavras em um texto, e modelagens mais complexas, como redes neurais artificiais, e tantas outras coisas legais.
 
